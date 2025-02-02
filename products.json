@@ -1,1 +1,6 @@
 
+[
+    {"name": "Laptop", "price": 999},
+    {"name": "Headphones", "price": 199},
+    {"name": "Smartphone", "price": 699}
+]
